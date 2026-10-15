@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.svg" width="100%" alt="Dalton Pérez | Software, sistemas, automatización e inteligencia artificial" />
+  <img src="./assets/banner.webp" width="100%" alt="Dalton Pérez | Software, sistemas, automatización e inteligencia artificial" />
 </p>
 
 <p align="center">
