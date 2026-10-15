@@ -7,6 +7,11 @@
   <sub>Enterprise Software · System Architecture · Automation · Applied AI</sub>
 </p>
 
+<p align="center">
+  <a href="https://github.com/DaltonP93">GitHub</a> ·
+  <a href="https://www.linkedin.com/in/dalton-perez-12067189/">LinkedIn</a>
+</p>
+
 ---
 
 ### 👋 Sobre mí
@@ -67,7 +72,8 @@ Mi trabajo conecta **software empresarial, infraestructura, automatización e in
 
 Disfruto explorar herramientas, compartir ideas y aprender de quienes construyen tecnología útil.
 
-[**Explorar mi perfil y actividad en GitHub →**](https://github.com/DaltonP93)
+[![GitHub](https://img.shields.io/badge/GitHub-DaltonP93-181717?style=for-the-badge&logo=github)](https://github.com/DaltonP93)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dalton_P%C3%A9rez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dalton-perez-12067189/)
 
 ---
 
